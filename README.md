@@ -1,6 +1,6 @@
 # \# Smart Receipt Generator
 
-# 
+
 
 # A full-stack digital receipt generation system built for \*\*Thanmayi Krishna Collections\*\*, a retail fashion store.
 
@@ -175,4 +175,26 @@
 # ├── .gitignore
 
 # └── README.md
+
+
+
+
+
+\## Screenshots
+
+
+
+\### Receipt Generator
+
+
+
+!\[Smart Receipt Generator](screenshots/site.png)
+
+
+
+\### Generated Receipt
+
+
+
+!\[Generated Receipt](screenshots/receipt-generator.png)
 
