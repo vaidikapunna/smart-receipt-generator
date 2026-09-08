@@ -8,7 +8,7 @@ const STORE = {
   tagline: "FASHION • ELEGANCE • EVERYDAY STYLE",
 };
 
-const API_BASE_URL = "http://localhost:5000";
+const API_BASE_URL = "https://thanmayi-krishna-backend.onrender.com";
 
 function App() {
   // ====================================================
