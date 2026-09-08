@@ -373,10 +373,8 @@ app.post("/api/sales", (req, res) => {
 
 const PORT = 5000;
 
-app.listen(PORT, () => {
+const HOST = "0.0.0.0";
 
-    console.log(
-        `Backend running at http://localhost:${PORT}`
-    );
-
+app.listen(PORT, HOST, () => {
+    console.log(`Server running on http://${HOST}:${PORT}`);
 });
